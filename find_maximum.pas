@@ -1,5 +1,5 @@
 ﻿program ooo;
-const n=5;
+const n=10;
 var a:array[1..n] of integer; max:integer; f:integer;
 begin
   for f:=1 to n do

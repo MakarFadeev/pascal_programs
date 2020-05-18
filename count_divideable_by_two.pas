@@ -10,5 +10,5 @@ begin
       b:=b+1;
   for c:=0 to 5 do
     writeln (a[c]);
-  writeln ('divided by two: ',b);
+  writeln ('здесь ',b,' числа, которые делятся на два.');
 end.
